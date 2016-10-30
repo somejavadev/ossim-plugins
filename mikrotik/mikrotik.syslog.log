@@ -1,0 +1,4 @@
+Oct 30 13:51:05 172.0.0.1 system,info,account user admin logged in from 172.0.0.0 via winbox
+Oct 30 13:53:26 172.0.0.1 system,info,account user admin logged out from 172.0.0.0 via winbox
+
+Oct 30 13:54:28 172.0.0.1 system,error,critical login failure for user admin from 172.0.0.0 via winbox
